@@ -1,5 +1,7 @@
 #define LED_PIN 8
 
+// This is a line of comment!
+
 void setup() {
 pinMode(LED_PIN, OUTPUT);
 
